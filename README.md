@@ -1,2 +1,2 @@
-# chess_neural_network
-A chess engine written using a neural network
+# Neural network chess engine
+A chess engine that's written using a neural network.
